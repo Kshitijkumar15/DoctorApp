@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619486294294",
+    "project_id": "doctor-755fe",
+    "storage_bucket": "doctor-755fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619486294294:android:3902a38e997d4247196037",
+        "android_client_info": {
+          "package_name": "com.example.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInBk11WNRYcZrYWArhrslkTwy_RVrXig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
